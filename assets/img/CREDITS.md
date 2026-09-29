@@ -1,0 +1,11 @@
+# Photo credits (Pexels)
+- hero/hero.jpg — Thirdman
+- rooms/exam.jpg — Los Muertos Crew
+- rooms/uzd.jpg — MART  PRODUCTION
+- rooms/lab.jpg — Steppe Walker
+- rooms/physio.jpg — Juan Manuel Montejano Lopez
+- rooms/consult.jpg — Timur Weber
+- rooms/proc.jpg — Ayşenur
+- infra/interior.jpg — https://kaboompics.com/
+- infra/detail.jpg — Tara Winstead
+- infra/doc.jpg — Tessy Agbonome
